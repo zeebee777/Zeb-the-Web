@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
 .background {
-    background: url("background.svg") no-repeat center center fixed;
+    background: url("background.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 *{
@@ -65,7 +65,7 @@ h2 {
     left:0;
     width: 225px;
     height:225px;
-    opacity: 1.0;
+    opacity: 1;
     z-index:1000
 }
 .eightypercent:hover{
